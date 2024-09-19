@@ -7,4 +7,4 @@ git add flow.sh
 git commit -m "Added flow.sh"
 
 # push changes
-git push origin master
+git push origin main
